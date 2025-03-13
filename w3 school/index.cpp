@@ -2,7 +2,7 @@
 using namespace std;
 
    int main() {
-     cout << "Hello World!";
+     /*cout << "Hello World!";
      cout<<"\n Hi, Amr! good job\n";
      cout<<3 << "\n";
      cout << 3+5 << "\n";
@@ -10,6 +10,12 @@ using namespace std;
      cout<< 6 << endl;
      //Another way to insert a new line, is with the endl manipulator
      cout << 2;
+      const int x = 10;
+      //x=5;*/
+
+
+      
+
     return 0;
    }
 // ctrl + C is to comment short cut , to uncomment ctrl + U
@@ -27,3 +33,9 @@ using namespace std;
 //15
 //
 //6
+/* When you declare a constant variable, it must be assigned with a value:
+
+Example
+Like this:
+
+const int minutesPerHour = 60;*/
